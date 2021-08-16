@@ -1,1 +1,1 @@
-# Test Typescript & Docker
+# Test Typescript
